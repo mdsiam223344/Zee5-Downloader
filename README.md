@@ -1,9 +1,8 @@
 ## Zee5 Downloader
-If you find any bugs, report at @disneyteamchat
 
 **My Features**:
 
-👉 Upload as file/video from any NON-DRM Zee5 link
+👉 Upload as file/video from any DRM Zee5 link
 
 👉 Permanent thumbnail support.
 
