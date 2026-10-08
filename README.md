@@ -27,8 +27,7 @@ sudo apt install ffmpeg
 
 * Run the app
 
-```sh
-git clone https://github.com/TroJanzHEX/Zee5-Downloader
+```
 cd Zee5-Downloader
 pip3 install -r requirements.txt
 python3 bot.py
@@ -37,8 +36,8 @@ python3 bot.py
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* APP_ID        - From my.telegram.org 
+* API_HASH      - From my.telegram.org
 * DB_URI        - PostgreSQL DB URL
 
 ## Commands
@@ -51,7 +50,3 @@ python3 bot.py
 
 
 ## Credits, and Thanks to Beloved Developers ;
-
-* [Doreamonfans1](https://telegram.dog/doreamonfans1) 
-* [Doreamonfans2](https://telegram.dog/doreamonfans2)
-* [Doreamonfans3](https://github.com/doreamonfans4)
