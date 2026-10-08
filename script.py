@@ -23,13 +23,13 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
     ABOUT_TEXT = """⭕️<b>My Name : Disney Team Zee5 DL</b>
 
-⭕️<b>Creater :</b> @doreamonfans1
+⭕️<b>Creater :</b> @usrname
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>updates channel :</b> 👉 <a href='https://t.me/disneygrou'>Disney Team</a>"""
+⭕️<b>updates channel :</b> 👉 <a href='https://t.me/telegram channel'>Disney Team</a>"""
 
 
 
@@ -41,7 +41,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @disneyteamzee5dlbot"
+    UPGRADE_TEXT = "PING at @bot name"
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
@@ -55,11 +55,11 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@disneyteamzee5dlbot\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@botname\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @doreamonfans2</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ </b>"
     
     TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
     
